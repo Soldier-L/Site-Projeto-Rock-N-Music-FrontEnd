@@ -1,0 +1,24 @@
+.menu{
+    border= 3px solid rgb(205, 202, 50); 
+    min-height: 80px;
+}
+
+
+.produtos-1{
+    border= 3px solid blue;
+    margin-right: 3;
+    margin-left: 3;   
+}
+
+
+.produtos-2{
+    border= 3px solid blue;
+    margin-right: 3;
+    margin-left: 3;   
+}
+
+
+.rodape{
+    border= 3px solid yellowgreen; 
+    
+ }

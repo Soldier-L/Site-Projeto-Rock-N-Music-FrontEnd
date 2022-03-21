@@ -1,0 +1,33 @@
+.menu{
+   border= 3px solid rgb(205, 202, 50); 
+   min-height: 80px;
+}
+
+
+.Carousel{
+   border= 3px solid yellowgreen; 
+   min-height: 400px;
+}
+
+
+.produtos-1{
+   border= 3px solid blue;  
+}
+
+
+.produtos-2{
+   border= 3px solid blue;
+}
+
+
+.produtos-3{
+   border= 3px solid blue;
+   margin-right: 3;
+   margin-left: 3;   
+}
+
+
+.rodape{
+   border= 3px solid yellowgreen; 
+
+}
